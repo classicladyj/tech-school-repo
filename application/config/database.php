@@ -64,10 +64,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'database-1.cudeehlpj0nq.eu-west-2.rds.amazonaws.com',
+	'hostname' => 'database-2.cudeehlpj0nq.eu-west-2.rds.amazonaws.com',
 	'username' => 'admin',
-	'password' => 'zLYiyOgF3y6DVNbVfwwz',
-	'database' => 'school',
+	'password' => 'LRvcqt5BOPMsrPaYuEE4',
+	'database' => 'sch-db',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
